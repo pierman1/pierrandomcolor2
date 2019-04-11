@@ -1,0 +1,37 @@
+{
+  "_from": "pierrandomcolor2",
+  "_inBundle": false,
+  "_integrity": "sha512-igLNnIoe9HHMevoGdCUaf++ggOVNuvR+irp8nrmWfPma7oKZgfA/r9Hw5ywIPo1gtbVgNZZlpF6FaMaLuonTZQ==",
+  "_location": "/pierrandomcolor2",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "pierrandomcolor2",
+    "name": "pierrandomcolor2",
+    "escapedName": "pierrandomcolor2",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/pierrandomcolor2/-/pierrandomcolor2-1.0.2.tgz",
+  "_shasum": "2ad4b84fc5739582d662aa52f61ca9402c4870b4",
+  "_spec": "pierrandomcolor2",
+  "_where": "/Users/pierrebleeker/chimp/tryout",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Generate a random hex color",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "pierrandomcolor2",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
